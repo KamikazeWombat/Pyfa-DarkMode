@@ -9,7 +9,7 @@ Looking at the [Pyfa Issue thread regarding Dark/Nightmode](https://github.com/p
 
 
 ## Installation & Uninstallation
-Download [latest release](https://github.com/Eivonz/Pyfa-Mod/releases/latest)
+Download [latest release](https://github.com/KamikazeWombat/Pyfa-DarkMode/releases/latest)
 
 To install copy the files named "oleacc.dll" and "oleacc.ini" into the Pyfa installation directory.
 
